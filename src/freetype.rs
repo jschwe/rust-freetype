@@ -4,8 +4,8 @@ pub type FT_Int16 = i16;
 pub type FT_UInt16 = u16;
 pub type FT_Int32 = i32;
 pub type FT_UInt32 = u32;
-pub type FT_Int64= i64;
-pub type FT_UInt64= u64;
+pub type FT_Int64 = i64;
+pub type FT_UInt64 = u64;
 pub use FT_Error;
 
 pub const FT_RENDER_POOL_SIZE: u32 = 16384;
